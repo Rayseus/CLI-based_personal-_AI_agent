@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+memory.db
+*.db
+*.log
+.DS_Store
+ai-session/
